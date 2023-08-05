@@ -1,0 +1,17 @@
+[
+    {
+      "step_name": "STEP 1: COMPLETE PROFILE",
+      "image": "https://i.ibb.co/m5Y7X99/icon2.png",
+      "des": "Once you are approved, we showcase you to leading Indian technology startups"
+    },
+    {
+      "step_name": "STEP 2: RECEIVE JOB OFFERS",
+      "image": "https://i.ibb.co/DQb5LzH/icon1.png",
+      "des": "Companies start sending interview requests. Talk to only the ones you like."
+    },
+    {
+      "step_name": "STEP 3: ACCEPT DREAM JOB",
+      "image": "https://i.ibb.co/x8F7hWV/feature-icon-2.png",
+      "des": "Compare your offers and accept the best one. Hired!"
+    }
+  ]
